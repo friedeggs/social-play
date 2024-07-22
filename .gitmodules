@@ -1,3 +1,6 @@
 [submodule "stable-baselines3"]
 	path = stable-baselines3
 	url = https://github.com/friedeggs/stable-baselines3.git
+[submodule "gym-multigrid"]
+	path = gym-multigrid
+	url = https://github.com/friedeggs/gym-multigrid.git
